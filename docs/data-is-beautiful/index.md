@@ -1,4 +1,88 @@
+---
+hide:
+    - navigation
+    - toc
+---
 # Data is Beautiful
+
+??? quote "<strong>Spring</strong>, by Jimmy Santiago Baca"
+    With one might tug and push, conservancy engineers
+
+    in North New Mexico
+
+    open water gates--snow melt,
+
+    brimming northern lakes, and streams
+
+    gush, lunge, and hurl down Río Abajo to community fields,
+
+    fill the dry ditches and canals, clashing
+        
+    like great banging orchestra cymbals
+    
+    against dirt. Plants, bushes, weeds
+    
+    uncurl, furl out along my ditch,
+    
+    ants float on islands of leaves,
+    
+    past pyramids of beer cans,
+    
+    tadpoles fuse to the water
+    
+    in swirls of brown mist,
+    
+    catfish fin beneath driftwood
+    
+    and stew the water dark brown.
+    
+    All things pull and strain. The ditch swells
+    
+    into a great marketplace, where death and life
+    
+    are exchanged.
+    
+    A pair of light blue-gray doves skim water surface,
+    
+    geese veer down, royal couriers
+    
+    flap-landing in gusty sprinkles, then
+    
+    serenely floating like white flags of peace,
+    
+    drifting in pairs, through glare and shadows,
+    
+    as crawdads, spiders, snakes and frogs
+    
+    peer from mud and weed corners.
+
+
+    From each unfolding lilac leaf
+    
+    a blue-green arctic haze glimmers,
+    
+    from feathers dark winter melts,
+    
+    from eyes glide out cold deeps,
+    
+    everything bears a new light.
+    
+    The crane is breaking ice with its call,
+    
+    long-legged spider skitters
+    
+    to birth-thawing rhythms of the shore,
+    
+    as spring finally arrives,
+    
+    glistening the dead-slag of winter
+    
+    in all creatures,
+    
+    as they emit that special light
+    
+    they do.
+
 
 ## Part 1
 
