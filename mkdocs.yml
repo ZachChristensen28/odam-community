@@ -77,6 +77,9 @@ theme:
     - toc.follow
     - navigation.tracking
     - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -99,8 +102,4 @@ nav:
   - Home: index.md
   - Data is Beautiful: 
       - Data is Beautiful: data-is-beautiful/index.md
-  - Data is Beautiful v2:
-      - Data is Beautiful: data-is-beautiful-v2/index.md
-      - Exploring the Value of Data: data-is-beautiful-v2/exploring-data.md
-      - Bringing Data to Life: data-is-beautiful-v2/bringing-data-to-life.md
 

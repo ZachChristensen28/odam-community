@@ -2,7 +2,11 @@
 
 ## Part 1
 
-??? abstract "Exploring the Value of Data: A Journey Through the Wilderness"
+??? note "Exploring the Value of Data: A Journey Through the Wilderness"
+    >"The universe is wider than our views of it."
+    > 
+    > -Henry David Thoreau
+
     Data is a powerful tool for conveying ideas, just as words can tell a story or art can depict the world. Splunk is software that helps people understand and make sense of their data.
     
     This data story begins at the Dripping Springs trailhead in the Organ Mountains in Southern New Mexico, which recently became a protected national monument. Before setting out on my hike, I used my phone to check the weather forecast and made sure to pack my rain jacket. As I started my hike, I wore my Apple Watch, which tracked my GPS location, blood oxygen levels, heart rate, and other telemetry. My phone and watch provided me with real-time information about the weather and my location as I hiked. When it began to rain, I consulted my phone's weather radar app and decided to continue based on the information it provided and my own observations.
@@ -22,10 +26,18 @@
     
     At the center of all this is me, the consumer of insights and the generator of data through my use of devices. As I use these devices for different activities and tasks, I create patterns and routines that are unique to me, and the way I navigate digital spaces becomes a data point in itself. Ultimately, I believe that data is evidence of our relationship with machines.
 
-??? abstract "Bringing Data to Life: A Practical Approach to Building an Analytics Center of Excellence"
+    >"Maybe stories are just data with a soul."
+    >
+    > -Brené Brown Research Professor and Author
+    
+
+??? note "Bringing Data to Life: A Practical Approach to Building an Analytics Center of Excellence"
     Data is a valuable resource, just like water is in arid regions like New Mexico. In the same way that farmers must carefully manage their water rights and usage through contracts and agreements, organizations must also carefully manage their data to get the most value out of it. One way to do this is by building an Analytics Center of Excellence (ACE), which can help an organization make the most of its data by providing a central hub for data analytics and visualization.
 
-    ![ACE](/assets/part1/ace.png)
+    <figure markdown>
+        ![ACE](/assets/part1/ace.png)
+        <figcaption>Analytics Center of Excellence (ACE)</figcaption>
+    </figure>
 
     The poem "Spring" by Jimmy Santiago Baca describes the arrival of spring in North New Mexico, as water flows into the acequia and brings life to the community fields. The acequia  (ə-ˈsā-kē-ə), or network of canals, acts as a conduit for water, just as networks of data conduits can help organizations distribute insights and information to users.
     
