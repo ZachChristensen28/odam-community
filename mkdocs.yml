@@ -21,7 +21,7 @@ plugins:
       caption_position: bottom
   - minify:
       minify_html: true
-  - search
+  # - search
 
 markdown_extensions:
   - abbr

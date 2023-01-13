@@ -87,6 +87,8 @@ hide:
 ## Part 1
 
 ??? note "Exploring the Value of Data: A Journey Through the Wilderness"
+    ## Exploring the Value of Data: A Journey Through the Wilderness
+
     !!! quote "The universe is wider than our views of it."
         <strong>Henry David Thoreau</strong>
 
@@ -113,6 +115,8 @@ hide:
         <strong>Brené Brown Research Professor and Author</strong>
 
 ??? note "Bringing Data to Life: A Practical Approach to Building an Analytics Center of Excellence"
+    ## Bringing Data to Life: A Practical Approach to Building an Analytics Center of Excellence
+
     Data is a valuable resource, just like water is in arid regions like New Mexico. In the same way that farmers must carefully manage their water rights and usage through contracts and agreements, organizations must also carefully manage their data to get the most value out of it. One way to do this is by building an Analytics Center of Excellence (ACE), which can help an organization make the most of its data by providing a central hub for data analytics and visualization.
 
     <figure markdown>
@@ -125,6 +129,8 @@ hide:
     In the same way that the acequia association helps to manage water rights and ensure the smooth bureaucratic flow of water to the fields, an ACE can help an organization manage data rights and ensure the smooth flow of data insights to users. The ACE can serve as a resource for answering questions and addressing issues related to data analytics.
 
 ??? note "Understanding the Hierarchy of Data Value"
+    ## Understanding the Hierarchy of Data Value
+
     When it comes to data, not all data are created equal. In fact, there are different tiers of value when it comes to data, each serving a specific purpose.
 
     - Tier 1 data is considered the most valuable, as it is used frequently and requires quick access. This type of data is typically stored on high-speed storage systems for efficient searching.
@@ -136,7 +142,9 @@ hide:
     By understanding the hierarchy of data value, organizations can better align their IT infrastructure and contextualize their data for the appropriate audience. Using the IT Service Blueprint method, organizations can map out the technology used to provide IT services to specific populations of users. This helps to ensure that the right data is being collected, stored, and accessed in the most efficient and effective way possible. 
 
 ??? note "The Role of Data Analytics in Transforming Decision Making Processes"
-    **Processes**
+    ## The Role of Data Analytics in Transforming Decision Making Processes
+    
+    ### Processes
 
     Ultimately this comes down to: what should I do right now vs. what can I delay or hold off on until the priorities are taken care of? 
 
@@ -153,6 +161,8 @@ hide:
     Endless, huh?…. So where does one begin? What is the best course of action?
 
 ??? note "Storytelling With Data"
+    ## Storytelling With Data
+
     !!! quote "Stories have been used to dispossess and malign, but stories can also be used to empower and to humanize. Stories can break the dignity of a people, but stories can also repair that broken dignity."
         <strong>Chimamanda Ngozi Adichie, The Danger of a Single Story, TED Talk</strong>
 
@@ -185,14 +195,17 @@ hide:
         <strong>Sherlock Holmes A Study in Scarlet, Arthur Conan Doyle</strong>
 
     ??? tip "Storytelling with Data: The Importance of Considering the User"
+        ### Storytelling with Data: The Importance of Considering the User
+
         The success of any data storytelling lies in its ability to engage and reach the emotion of the audience. It is crucial to consider who your audience is and tailor your presentation accordingly. While a technical audience with a high level of data literacy may be able to comprehend more complex language and visualizations, a non-technical audience may require simpler explanations, basic data visualizations, or a walk-through of what’s being presented. Using metaphors and analogies are very helpful tools when customizing your presentation or content.
 
         It is also essential to consider their goals, interests, and motivations. What do they hope to learn from the data? How can the insights from the data be applied to their needs? By aligning your data storytelling with the audience's needs and interests, you can create a relevant and engaging story or presentation that effectively communicates the value of the data.
 
         Finally, when considering the context of the data, user stories can also be used to identify key insights and actionable steps that can be taken based on those insights. This helps to make the data more valuable and applicable to your audience, and helps them understand the implications of the data.
 
-
 ??? note "Data at the Heart of Modern Life"
+    ## Data at the Heart of Modern Life
+
     In this section, we will explore the 5 Vs, the growth of IoT and sensing devices, the impact of mobile and cloud computing on data generations, and the importance of data in a pandemic.
 
     As our world becomes increasingly digitized, we are generating and collecting vast amounts of data from a variety of sources. From the sensing devices placed throughout our physical environment to the data we create through our daily interactions and activities, the amount of data we produce is vast and ever-growing.
@@ -210,9 +223,13 @@ hide:
     The future motivates me, personally. I love technology and love thinking about all the ways that we humans will interact with and experience technology. AR, VR, xVR, whatever the reality, it sounds cool and I look forward to it!
 
     ??? tip "The 5 Vs of Data Analytics"
+        ### The 5 Vs of Data Analytics
+
         Data plays a central role in modern life, and organizations of all types and sizes are facing challenges in managing the volume, variety, veracity, velocity, and value of the data they generate and collect. From states to universities, counties to tribes and pueblos, school districts to utilities, academic medical centers to businesses, the challenges of data management are widespread and complex. In this section, we will delve into each of the 5Vs and explore the key considerations for an effective data strategy.
 
         ??? info "Volume"
+            #### Volume
+
             As organizations continue to digitize, the volume of data being generated on a daily basis has become overwhelming. In fact, according to recent estimates, the average digital organization creates terabytes of data each day. Here’s a list of some important questions to consider, as the volume of data can have a significant impact.
             
             - How much data does your digital organization create every day?
@@ -225,6 +242,8 @@ hide:
             - Volume can be derived from # of users, # of endpoints, and other factors.
         
         ??? info "Variety"
+            #### Variety
+
             There is a growing movement within the cybersecurity industry to establish a common standard for sharing threat intelligence and communicating threat tactics and techniques. For example, Splunk recently announced a partnership with Amazon Web Services (AWS) to create the Splunk Security Lake, which aims to provide a centralized platform for storing, analyzing, and sharing security data. However, until there is a widely-accepted industry-wide standard for data sharing, organizations will continue to deal with a variety of data sources.
 
             Each firewall vendor has a different log format, and endpoint telemetry may contain more information than what is reported by the firewall. While these data sources can complement each other, the differences in format can make it difficult for organizations to effectively analyze and utilize the data. Splunk provides tools that can help normalize this variety of data using a Common Information Model (CIM). By using CIM, organizations can more easily integrate and analyze data from multiple sources, enabling them to make more informed security decisions.
@@ -238,6 +257,8 @@ hide:
             - Analysis: This refers to the process of examining, transforming, and modeling data in order to discover useful insights and inform decision-making. It can involve a variety of techniques, such as statistical analysis, machine learning, and data visualization.
 
         ??? info "Veracity"
+            #### Veracity
+
             Ensuring the veracity of data is essential for a successful data analytics platform. This includes considering factors such as accuracy, completeness, timeliness, consistency, and integrity, as these all contribute to the overall quality of the data. Ensuring that the data is of high quality is critical for accurate analysis and informed decision-making. There are multiple points of importance when it comes to the veracity of data:
 
             - Accuracy: Veracity refers to the truthfulness and accuracy of data. Data that is not accurate or reliable can lead to incorrect insights and decisions, which can have serious consequences for an organization.
@@ -247,6 +268,8 @@ hide:
             - Integrity: Veracity also refers to the integrity of data. Data that has been compromised or altered in any way can impact the accuracy and reliability of analytics and insights, as well as the trustworthiness of the data for decision-making. Ensuring the veracity of data is critical for the success of any data analytics and decision-making efforts.
 
         ??? info "Velocity"
+            #### Velocity
+
             Data velocity is a measure of how fast data is being generated and processed. It is calculated using two factors: time and amount. Speed, frequency, volume, and variety are all components of data velocity that can impact how quickly data is generated and processed.
             
             Imagine trying to measure the flow of electricity in a circuit. Just like electricity, data can flow at different speeds and in different quantities. To accurately measure the flow of electricity, you would need to consider factors such as the amount of current (similar to volume in data), the frequency of the current (similar to frequency in data), and the type of load on the circuit (similar to variety in data). Similarly, to measure data velocity, you need to consider the speed at which data is generated, the frequency of data generation, the volume of data being generated, and the variety of data being generated.
@@ -261,6 +284,8 @@ hide:
             - Variety: The velocity of data can also be impacted by the variety of data being generated. Data that comes from a variety of sources and formats may be more difficult to process and analyze quickly, which can impact the velocity of data.
 
         ??? info "Value"
+            #### Value
+
             - What is the value of a seashell? 
             - What is the value of a goat or a chicken?
             - What is the value of 1 BTC?
@@ -277,11 +302,15 @@ hide:
 
 
     ??? tip "The Growth of IoT and Sensing Devices"
+        ### The Growth of IoT and Sensing Devices
+
         The internet of things (IoT) refers to the growing network of interconnected devices, sensors, and other electronic devices that are able to collect, transmit, and exchange data. These devices are becoming increasingly prevalent in many areas of our lives, including homes, cities, transportation systems, and businesses. The rise of IoT and sensing devices is driving the proliferation of data, as these devices are able to generate, collect, and transmit vast amounts of data in real time.
 
         The data generated by IoT and sensing devices can be used for a variety of purposes, including real-time decision making, trend analysis, and predictive modeling. The ability to collect and analyze this data in real time allows organizations to make more informed decisions and respond more quickly to changing circumstances. As the number of IoT and sensing devices continues to grow, the amount of data being generated and analyzed will also increase, leading to even greater insights and opportunities for organizations.
 
     ??? tip "The Impact of Mobile and Cloud Computing on Data Generation"
+        ### The Impact of Mobile and Cloud Computing on Data Generation
+
         <figure markdown>
             ![Cloud Formations](/assets/data-is-beautiful/cloud-formations.png)
         </figure>
@@ -295,9 +324,13 @@ hide:
         As the amount of data being generated continues to grow, organizations need to carefully consider how much data to collect and analyze, and how long to retain it. By identifying the systems, users, and assets that are generating the most relevant data, we can more effectively scope problems and take action to address them. Baselines and trending are also important for understanding how IT services are performing and responding to user needs.
 
     ??? tip "The Importance of Data in a Pandemic"
+        ### The Importance of Data in a Pandemic
+        
         The pandemic brought attention to the crucial role that data plays in decision making. From tracking case numbers and infection rates to determining the capacity of hospitals, data became a driving force in understanding and responding to the crisis. This emphasized the need for real-time insights and quick response times in order to keep critical services running and secure. The pandemic also highlighted the importance of defining what is essential, both in terms of services and data. Ensuring the availability of these essential services and data requires a strong and efficient IT infrastructure, which can be achieved through the use of analytics and machine-speed response.
 
 ??? note "Data-Driven Digital Organizations"
+    ## Data-Driven Digital Organizations
+
     As technology has become increasingly important for businesses, governments, and schools, the need for secure, efficient, and effective technology solutions has grown. While technology vendors have made significant progress in providing customers with increased security, visibility, and risk reduction, many organizations still struggle to integrate and make sense of their technology and data. There are various approaches to securing and optimizing operations, but choosing the best one can be a challenge. It is important for organizations to consider factors such as speed, budget, and overall fit with their needs and goals as they evaluate their options. It's also important to remember that the journey to becoming a digital organization is not always a quick one, and may involve transitioning from traditional approaches like statistical sampling to more modern approaches like individual data point analysis.
 
     <figure markdown>
@@ -311,6 +344,8 @@ hide:
         answer goes here?
 
 ??? note "Introducing Splunk’s Operationalizing Data Analytics Methodology"
+    ## Introducing Splunk’s Operationalizing Data Analytics Methodology
+
     <figure markdown>
         ![ODAM](/assets/data-is-beautiful/odam-diagram.png)
         <figcaption>Caption: ODAM</figcaption>
@@ -328,6 +363,8 @@ hide:
     </figure>
 
 ??? note "Problem Statement"
+    ## Problem Statement
+    
     Organizations often face complex problems and challenges that they believe could be addressed through data analytics. However, they may not know where to start. To overcome these problems, the following steps can be taken.
 
     <figure markdown>
