@@ -63,6 +63,8 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
+    admonition:
+      note: material/format-list-bulleted
   logo: assets/odam-logo.jpeg
   favicon: assets/odam-logo.png
   features:
