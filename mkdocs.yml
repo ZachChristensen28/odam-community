@@ -59,6 +59,11 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cperkins2/
+
 theme:
   name: material
   icon:
