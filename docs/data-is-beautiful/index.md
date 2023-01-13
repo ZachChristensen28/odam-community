@@ -6,35 +6,35 @@ hide:
 # Data is Beautiful
 
 ??? quote "<strong>Spring</strong>, by Jimmy Santiago Baca"
-    With one might tug and push, conservancy engineers
+    <p class="quote-indent">With one might tug and push, conservancy engineers</p>
 
     in North New Mexico
 
-    open water gates--snow melt,
+    <p class="quote-indent">open water gates--snow melt,
 
     brimming northern lakes, and streams
 
-    gush, lunge, and hurl down Río Abajo to community fields,
+    <p class="quote-indent">gush, lunge, and hurl down Río Abajo to community fields,
 
-    fill the dry ditches and canals, clashing
+    <p class="quote-indent">fill the dry ditches and canals, clashing</p>
         
     like great banging orchestra cymbals
     
     against dirt. Plants, bushes, weeds
     
-    uncurl, furl out along my ditch,
+    <p class="quote-indent">uncurl, furl out along my ditch,</p>
     
-    ants float on islands of leaves,
+    <p class="quote-indent">ants float on islands of leaves,</p>
     
-    past pyramids of beer cans,
+    <p class="quote-indent">past pyramids of beer cans,</p>
     
-    tadpoles fuse to the water
+    <p class="quote-indent">tadpoles fuse to the water</p>
     
-    in swirls of brown mist,
+    <p class="quote-indent">in swirls of brown mist,</p>
     
-    catfish fin beneath driftwood
+    <p class="quote-indent">catfish fin beneath driftwood</p>
     
-    and stew the water dark brown.
+    <p class="quote-indent">and stew the water dark brown.</p>
     
     All things pull and strain. The ditch swells
     
@@ -52,9 +52,9 @@ hide:
     
     drifting in pairs, through glare and shadows,
     
-    as crawdads, spiders, snakes and frogs
+    <p class="quote-indent">as crawdads, spiders, snakes and frogs</p>
     
-    peer from mud and weed corners.
+    <p class="quote-indent">peer from mud and weed corners.</p>
 
 
     From each unfolding lilac leaf
