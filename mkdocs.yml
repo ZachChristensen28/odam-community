@@ -73,8 +73,10 @@ theme:
   logo: assets/odam-logo.jpeg
   favicon: assets/odam-logo.png
   features:
+    - announce.dismiss
+    - content.code.copy
     - header.autohide
-    # - content.action.edit
+    - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.tabs
@@ -84,9 +86,6 @@ theme:
     - toc.follow
     - navigation.tracking
     - content.code.annotate
-    - search.suggest
-    - search.highlight
-    - search.share
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -107,7 +106,5 @@ copyright: Copyright &copy; 2023 Chris Perkins
 
 nav:
   - Home: index.md
-  - Data is Beautiful: 
-      - Data is Beautiful: data-is-beautiful/index.md
+  - Data is Beautiful: data-is-beautiful/index.md
   - About the Author: about/index.md
-
