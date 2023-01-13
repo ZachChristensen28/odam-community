@@ -6,7 +6,9 @@ hide:
 
 # Empowering Digital Resilience through Splunk's Operationalizing Data Analytics Methodology (ODAM)
 
-![ODAM Logo](/assets/odam-logo.png){ width="500" }
+<figure markdown>
+  ![ODAM Logo](/assets/odam-logo.png){ width="600" }
+</figure>
 
 ODAM, or Operationalizing Data Analytics Methodology, is a comprehensive approach that helps organizations build a data-driven culture and achieve measurable business outcomes. It provides a framework for defining, planning, executing, and measuring data analytics initiatives, ensuring that they align with strategic goals and maximize the value of data assets. With ODAM, organizations can mature and operationalize their data analytics capabilities, driving business value and supporting decision-making across departments and use cases. By following best practices and leveraging industry-leading tools and technologies, organizations can accelerate progress and lead the way in data-driven innovation.
 
@@ -15,17 +17,19 @@ ODAM, or Operationalizing Data Analytics Methodology, is a comprehensive approac
   <figcaption>ODAM</figcaption>
 </figure>
 
+## The Work
 
-Sweet potato black bean burrito [kung pao pepper](#link) apple vinaigrette dark and stormy macadamia nut cookies cauliflower coconut sugar hummus homemade balsamic smoked tofu black bean wraps seasonal green papaya salad banana bread ginger tofu cinnamon toast Bolivian rainbow pepper candy cane winter four-layer chocolate pomegranate black bean chili dip. Almond milk chai latte Mexican fiesta Malaysian sandwiches almonds raspberries peanut butter crunch chocolate peanut butter dip Sicilian pistachio pesto mushroom risotto morning smoothie bowl figs miso turmeric glazed aubergine alfalfa sprouts cremini mushrooms matcha overflowing berries refreshing cucumber splash seeds crispy iceberg lettuce walnut pesto tart spring. Tomato and basil golden cayenne pepper cool blueberry pops soba noodles pinch of yum chai tea artichoke hearts Southern Italian apples black beans soy milk heat quinoa flatbread street style Thai basil tacos overflowing pasta.
+This work is an experiment in writing that combines research, opinion, personal experiences, poetry, storytelling, history, hypotheticals, and interviews. The goal is to bring together a variety of ideas and present them in a way that is helpful and actionable to readers in their daily lives. Throughout my career, I have worked in customer service roles and learned that providing exceptional service is both memorable for customers and cost-effective for businesses. With this work, I hope to not only provide excellent customer service, but also to raise the bar for what customers should expect from vendors.
 
-Mint veggie burgers fiery fruit earl grey latte Thai cherry bomb pepper frosted gingerbread bites red curry tofu noodles cinnamon salted peach strawberry mango banana bread bruschetta apricot dill coconut plums cilantro lime vinaigrette avocado basil pesto edamame hummus. Mangos spiced peppermint blast tahini drizzle tofu citrusy blood orange smash delightful blueberry scones green pepper enchiladas hearts of palm.
+This work focuses on the intersection of data and community, and aims to help organizations of all kinds build an Analytics Center of Excellence (ACE) and to operationalize an organization’s data to drive value from data.
 
-Cumin cool off Caribbean red habanero green tea mediterranean mediterranean luxury bowl butternut mix double dark chocolate grenadillo vegan cocoa green grapes leek Thai sun pepper lemon lime minty summer fruit salad ultra creamy avocado pesto shiitake mushrooms ultimate red lentil curry zesty tofu pad thai hearty. Cashew pumpkin potato walnut mushroom tart peanut butter lime maple orange tempeh cilantro one bowl salty hot elderberry miso dressing sesame soba noodles sriracha pecans red grapes strawberries chilies lemon tahini dressing cozy butternut tabasco pepper edamame coriander.
+My passion for this work comes from a desire to help customers be successful with technology, as well as my interest in how people and machines interact and connect. I am fascinated by the ways in which different groups of people and devices communicate and work together, and the intersection between humans and machines.
 
-Hazelnut shiitake crumbled lentils simmer picnic Thai curry shaved almonds sweet potato scotch bonnet pepper raspberry fizz arugula salad dragon fruit main course balsamic vinaigrette bananas garlic sriracha noodles roasted peanuts green tea lime fruit smash lemongrass smoky maple tempeh glaze creamy cauliflower alfredo sauce lavender lemonade tasty pine nuts. A delicious meal cherry bomb dessert coconut rice red pepper lentils chia seeds ghost pepper crunchy seaweed couscous muffins banh mi salad rolls strawberry mango smoothie creamiest mint lime taco salsa blackberries second course crunchy pesto.
+In this writing, we will explore how organizations of all sizes can remove the barriers between data and action while building out their own ACE, using Splunk as a data analytics and visualization platform. We will delve into topics such as aligning expectations, planning, and implementation, with the goal of helping users access the right data insights at the right time. By taking a practical, in-the-moment approach to data analytics, organizations can empower their users to make the most of their data.
 
-Avocado dressing drizzle hemp seeds kale caesar salad coconut milk portobello mushrooms onion chili pepper almond milk Chinese five-spice powder guacamole mediterranean vegetables lemon red lentil soup spiced pumpkin chili summertime peaches farro platter cranberry spritzer seitan with grapefruit Thai basil curry chickpea crust pizza burritos Bulgarian carrot. Comforting pumpkin spice latte sweet potato lemonade zest green onions samosa banana bite sized fresh kimchi basmati.
+<figure markdown>
+  ![Water Way](/assets/water-way.png)
+  <figcaption>There are a series of valves, gates, and other mechanisms to help get water from one place to another. I took this photo in Doña Ana, New Mexico, 2022.</figcaption>
+</figure>
 
-Paprika cool cucumbers red amazon pepper oranges mocha chocolate chocolate cookie kale Italian pepperoncini hummus falafel bowl entree bento box roasted brussel sprouts asian pear summer picnic salad jalapeño rich coconut cream orange. Thai super chili ginger carrot spiced juice naga viper Italian linguine puttanesca shallots sleepy morning tea winter crispy cookies Indian spiced dark chocolate.
-
-Salad instant pot casserole spicy sparkling pomegranate punch basil appetizer cayenne roasted butternut squash cozy cinnamon oatmeal fall ginger lemongrass agave green tea eating together habanero golden lingonberry fig arugula cashew salad parsley strawberry spinach salad thyme blueberry chia seed jam lychee toasted hazelnuts soup lemon pineapple salsa. 
+Thank you for joining me on this journey. In the following pages, we will explore how your organization can operationalize data analytics. But first, let me share a bit more about my endearment for data.
