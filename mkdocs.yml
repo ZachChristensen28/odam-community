@@ -107,7 +107,7 @@ copyright: Copyright &copy; 2023 Chris Perkins
 nav:
   - Home: index.md
   - 1-Data is Beautiful: data-is-beautiful/index.md
-  - 2-A Data Strategy Template: strategy-template/index.md
+  - 2-Data Strategy Template: strategy-template/index.md
   - 3-Using ODAM to Setup Your ACE: ace/index.md
   - 4-Getting Tactical: getting-tactical/index.md
   - Conclusion: conclusion/index.md
