@@ -1,19 +1,22 @@
+[data-md-color-scheme="odam-light"] {
+    --md-primary-fg-color: #29DEE0;
+    --md-primary-bg-color: #020100;
+
+    /* buttons, primary */
+    --md-accent-fg-color: #FDDD0D;
+
+    /* a tag */
+    --md-typeset-a-color: #29DEE0;
+}
+
 :root {
-    /* --md-primary-fg-color: #FDDD0D; */
     --md-primary-fg-color: #020100;
     --md-primary-bg-color: #FDDD0D;
-    --md-accent-fg-color: #D81E5B;
+    --md-accent-fg-color: #29DEE0;
     --md-accent-fg-color--transparent: #D81E5B;
-    --md-accent-bg-color: #317B22;
+    --md-accent-bg-color: #020100;
 }
 
 .quote-indent {
     text-indent: 50px;
 }
-/* 
-FDDD0D 
-020100 
-06BCC1 
-317B22 
-D81E5B 
-*/
