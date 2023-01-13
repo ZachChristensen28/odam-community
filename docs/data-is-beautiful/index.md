@@ -338,10 +338,8 @@ hide:
         <figcaption>Caption: Overcome Problems</figcaption>
     </figure>
 
-    A problem is noticed, 
-    
-    the problem is understood, 
-    
-    action is taken, and 
-    
-    the problem is resolved.
+    ---
+    <p style="text-align:center">A problem is <strong><span style="color:#E20082">noticed</span></strong>,</p>
+    <p style="text-align:center">the problem is <strong><span style="color:#E20082">understood</span></strong>,</p>
+    <p style="text-align:center"><strong><span style="color:#E20082">action</span></strong> is taken, and</p>
+    <p style="text-align:center">the problem is <strong><span style="color:#E20082">resolved</span></strong>.</p>
