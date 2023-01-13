@@ -87,9 +87,8 @@ hide:
 ## Part 1
 
 ??? note "Exploring the Value of Data: A Journey Through the Wilderness"
-    >"The universe is wider than our views of it."
-    > 
-    > -Henry David Thoreau
+    !!! quote "The universe is wider than our views of it."
+        <strong>Henry David Thoreau</strong>
 
     Data is a powerful tool for conveying ideas, just as words can tell a story or art can depict the world. Splunk is software that helps people understand and make sense of their data.
     
@@ -110,10 +109,8 @@ hide:
     
     At the center of all this is me, the consumer of insights and the generator of data through my use of devices. As I use these devices for different activities and tasks, I create patterns and routines that are unique to me, and the way I navigate digital spaces becomes a data point in itself. Ultimately, I believe that data is evidence of our relationship with machines.
 
-    >"Maybe stories are just data with a soul."
-    >
-    > -Brené Brown Research Professor and Author
-    
+    !!! quote "Maybe stories are just data with a soul."
+        <strong>Brené Brown Research Professor and Author</strong>
 
 ??? note "Bringing Data to Life: A Practical Approach to Building an Analytics Center of Excellence"
     Data is a valuable resource, just like water is in arid regions like New Mexico. In the same way that farmers must carefully manage their water rights and usage through contracts and agreements, organizations must also carefully manage their data to get the most value out of it. One way to do this is by building an Analytics Center of Excellence (ACE), which can help an organization make the most of its data by providing a central hub for data analytics and visualization.
