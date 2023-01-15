@@ -1,20 +1,12 @@
 [data-md-color-scheme="odam-light"] {
-    --md-primary-fg-color: #29DEE0;
-    --md-primary-bg-color: #020100;
+    --md-primary-fg-color: #020100;
+    --md-primary-bg-color: #FCC420;
 
     /* buttons, primary */
-    --md-accent-fg-color: #FDDD0D;
-
+    --md-accent-fg-color: #FCC420;
+    
     /* a tag */
-    --md-typeset-a-color: #29DEE0;
-}
-
-:root {
-    --md-primary-fg-color: #020100;
-    --md-primary-bg-color: #FDDD0D;
-    --md-accent-fg-color: #29DEE0;
-    --md-accent-fg-color--transparent: #D81E5B;
-    --md-accent-bg-color: #020100;
+    /* --md-typeset-a-color: #FCC420; */
 }
 
 .quote-indent {
