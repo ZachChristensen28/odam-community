@@ -3,8 +3,9 @@ hide:
     - toc
     - navigation
 ---
+
 <figure markdown>
-  ![ODAM Logo](/assets/odam-logo.png){ width="600" }
+  ![ODAM](/assets/odam-feature-lg.svg){ width="900" }
 </figure>
 
 <h1 style="text-align:center">Empowering Digital Resilience through<br>Splunk's Operationalizing Data Analytics Methodology</h1>

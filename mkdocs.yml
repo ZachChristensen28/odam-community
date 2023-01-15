@@ -66,12 +66,13 @@ extra:
 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
     admonition:
       note: material/format-list-bulleted
-  logo: assets/odam-logo.jpeg
-  favicon: assets/odam-logo.png
+  logo: assets/odam-logo-square.png
+  favicon: assets/odam-logo-square.png
   features:
     - announce.dismiss
     - content.code.copy
