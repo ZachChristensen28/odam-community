@@ -6,9 +6,9 @@ hide:
 
 # Getting Tactical
 
-??? note "Part IV"
-    ## Part IV
+## Part IV
 
+??? note "Getting Tactical - Recommendations"
     These are my tactical recommendations for you to consider when thinking about the essentials in security analytics and security operations:
 
     - Create a data-driven security strategy: By focusing on data-driven approaches to security, organizations can more effectively identify, prioritize, and address security threats and vulnerabilities. This may involve establishing key performance indicators (KPIs) to measure the effectiveness of security efforts, and using analytics to identify trends and patterns in security data.

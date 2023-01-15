@@ -162,8 +162,6 @@ hide:
 
 ??? note "The Role of Data Analytics in Transforming Decision Making Processes"
     ## The Role of Data Analytics in Transforming Decision Making Processes
-    
-    ### Processes
 
     Ultimately this comes down to: <em>what should I do right now vs. what can I delay or hold off on until the priorities are taken care of?</em>
 

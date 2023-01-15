@@ -5,9 +5,9 @@ hide:
 ---
 # ODAM: A Data Strategy Template
 
-??? note "Part II"
-    ## Part II
+## Part II
 
+??? note "Intro"
     The focus should not be on a specific technique or element but rather on the broader concepts of alignment, sustainability, and resilience. 
 
     When it comes to creating a data strategy that incorporates focus on the broader concept of alignment as opposed to specific techniques, organizations can operationalize their tailored strategy for improved operational resilience.

@@ -5,9 +5,9 @@ hide:
 ---
 # Using ODAM to Setup Your ACE
 
-??? note "Part III"
-    ## Part III
+## Part III
 
+??? note "Intro"
     An Analytics Center of Excellence (ACE) is a dedicated team or function within an organization that is responsible for promoting and enabling the use of data analytics to support business objectives. The goal of an ACE is to provide a centralized resource for data analytics expertise, tools, and processes that can be leveraged across the organization to drive data-driven decision making and innovation. Some key responsibilities of an ACE include:
 
     - Defining and enforcing data governance policies and standards.
