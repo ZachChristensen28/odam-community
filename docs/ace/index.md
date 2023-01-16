@@ -74,35 +74,74 @@ hide:
 
         In addition to considering the current state of the service, the IT Service Blueprint also looks at the future state, and can help to identify any potential gaps or areas for improvement. With the ability to monitor real-time actions and gather evidence across channels, the IT Service Blueprint can be a valuable tool for ensuring that the service meets the needs and expectations of customers and users.
 
-        An IT Service Blueprint typically includes a number of different elements, such as:
+        ??? info "An IT Service Blueprint typically includes a number of different elements, such as:"
+            `Service components`
+            : These are the specific components or elements that make up the IT service, such as hardware, software, processes, or people.
+            
+            `Service dependencies`
+            : These are the relationships between different service components, and how they depend on one another to function properly.
+            
+            `Service interactions`
+            : These are the ways in which the service interacts with other systems, processes, or resources within the organization.
+            
+            `Service delivery channels`
+            : These are the ways in which the service is delivered to customers or users, such as through self-service portals, phone support, or on-site support.
+            
+            `Service metrics`
+            : These are the measures or metrics used to track and assess the performance of the service, such as availability, reliability, or customer satisfaction.
+            
+            `Alignment map`
+            : An alignment map that shows how individuals interact with a digital organization is a visual representation of the ways in which people interact with and engage with the various digital systems, processes, and resources that are available within the organization. The purpose of such an alignment map is to provide a clear and comprehensive overview of how people use and access digital resources, and to help identify any gaps or areas for improvement in the user experience. An alignment map might include a number of different elements, such as:
 
-        1. Service components: These are the specific components or elements that make up the IT service, such as hardware, software, processes, or people.
-        1. Service dependencies: These are the relationships between different service components, and how they depend on one another to function properly.
-        1. Service interactions: These are the ways in which the service interacts with other systems, processes, or resources within the organization.
-        1. Service delivery channels: These are the ways in which the service is delivered to customers or users, such as through self-service portals, phone support, or on-site support.
-        1. Service metrics: These are the measures or metrics used to track and assess the performance of the service, such as availability, reliability, or customer satisfaction.
-        1. Alignment map: An alignment map that shows how individuals interact with a digital organization is a visual representation of the ways in which people interact with and engage with the various digital systems, processes, and resources that are available within the organization. The purpose of such an alignment map is to provide a clear and comprehensive overview of how people use and access digital resources, and to help identify any gaps or areas for improvement in the user experience. An alignment map might include a number of different elements, such as:
-            1. User profiles: These are the different types of users or customer segments that interact with the digital organization, and may include categories such as employees, customers, partners, or stakeholders.
-            1. User journeys: These are the steps or actions that users take when interacting with the digital organization, such as visiting a website, filling out a form, or making a purchase.
-            1. User touchpoints: These are the specific points of interaction between users and the digital organization, such as a website, mobile app, or customer service hotline.
-            1. User feedback: This is the feedback and insights that users provide about their experience with the digital organization, including their needs, preferences, and areas for improvement.
-            1. An alignment map that shows how individuals interact with a digital organization can be a valuable tool for understanding the user experience and identifying areas for improvement. It can help to identify any gaps or problems in the user journey, and to develop strategies for improving the user experience and engagement with the digital organization.
+                `User profiles`
+                : These are the different types of users or customer segments that interact with the digital organization, and may include categories such as employees, customers, partners, or stakeholders.
+                
+                `User journeys`
+                : These are the steps or actions that users take when interacting with the digital organization, such as visiting a website, filling out a form, or making a purchase.
+                
+                `User touchpoints`
+                : These are the specific points of interaction between users and the digital organization, such as a website, mobile app, or customer service hotline.
+                
+                `User feedback`
+                : This is the feedback and insights that users provide about their experience with the digital organization, including their needs, preferences, and areas for improvement.
+
+                An alignment map that shows how individuals interact with a digital organization can be a valuable tool for understanding the user experience and identifying areas for improvement. It can help to identify any gaps or problems in the user journey, and to develop strategies for improving the user experience and engagement with the digital organization.
 
         An IT Service Blueprint is a visual representation of the systems, processes, and resources that are required to deliver a specific IT service. It helps IT professionals understand how the various components of the service fit together and interact, and ensures that the service meets the needs and expectations of customers and users.
 
-        Benefits to using an IT Service Blueprint:
-
-        - Breaks down silos: An IT Service Blueprint helps to break down silos by providing a common view of the service, and how the various components and processes fit together. This can help to improve collaboration and communication within the IT team, and can lead to more efficient and effective service delivery.
-        - Reveals opportunity: By providing a comprehensive view of the service, an IT Service Blueprint can help IT professionals identify opportunities for improvement, such as streamlining processes or optimizing resources.
-        - Common "big picture": An IT Service Blueprint helps to provide a common "big picture" view of the service, which can help to improve understanding and alignment among team members and stakeholders.
-        - Holistic: An IT Service Blueprint takes a holistic view of the service, and helps IT professionals understand how the various components and processes fit together as a whole.
-        - Situational/contextual: An IT Service Blueprint provides a situational and contextual view of the service, and helps IT professionals understand how the service operates in different situations and contexts.
-        - Point of view: An IT Service Blueprint provides a point of view on the service, and helps IT professionals understand how the service is perceived by different stakeholders.
-        - There's a scope: An IT Service Blueprint defines the scope of the service, and helps IT professionals understand what is and is not included in the service.
-        - Focus on the approach: An IT Service Blueprint focuses on the approach to delivering the service, and helps IT professionals understand how to best deliver the service to meet the needs and expectations of customers and users.
-        - Consider both current and future states: An IT Service Blueprint considers both the current and future states of the service, and helps IT professionals plan for the future evolution of the service.
-        - Real-time actions monitoring: An IT Service Blueprint helps IT professionals monitor the service in real-time, and take timely action to address any issues or problems that may arise.
-        - Evidence (data) across channels: An IT Service Blueprint provides evidence (data) across channels, and helps IT professionals understand how the service is being used and perceived by different stakeholders.
+        ??? info "Benefits to using an IT Service Blueprint:"
+            `Breaks down silos`
+            : An IT Service Blueprint helps to break down silos by providing a common view of the service, and how the various components and processes fit together. This can help to improve collaboration and communication within the IT team, and can lead to more efficient and effective service delivery.
+            
+            `Reveals opportunity`
+            : By providing a comprehensive view of the service, an IT Service Blueprint can help IT professionals identify opportunities for improvement, such as streamlining processes or optimizing resources.
+            
+            `Common "big picture"`
+            : An IT Service Blueprint helps to provide a common "big picture" view of the service, which can help to improve understanding and alignment among team members and stakeholders.
+            
+            `Holistic`
+            : An IT Service Blueprint takes a holistic view of the service, and helps IT professionals understand how the various components and processes fit together as a whole.
+            
+            `Situational/contextual`
+            : An IT Service Blueprint provides a situational and contextual view of the service, and helps IT professionals understand how the service operates in different situations and contexts.
+            
+            `Point of view`
+            : An IT Service Blueprint provides a point of view on the service, and helps IT professionals understand how the service is perceived by different stakeholders.
+            
+            `There's a scope`
+            : An IT Service Blueprint defines the scope of the service, and helps IT professionals understand what is and is not included in the service.
+            
+            `Focus on the approach`
+            : An IT Service Blueprint focuses on the approach to delivering the service, and helps IT professionals understand how to best deliver the service to meet the needs and expectations of customers and users.
+            
+            `Consider both current and future states`
+            : An IT Service Blueprint considers both the current and future states of the service, and helps IT professionals plan for the future evolution of the service.
+            
+            `Real-time actions monitoring`
+            : An IT Service Blueprint helps IT professionals monitor the service in real-time, and take timely action to address any issues or problems that may arise.
+            
+            `Evidence (data) across channels`
+            : An IT Service Blueprint provides evidence (data) across channels, and helps IT professionals understand how the service is being used and perceived by different stakeholders.
 
         <figure markdown>
             ![IT Service Blueprint - Splunk](/assets/ace/it-service-blueprint-splunk.png){ width="800" }
@@ -240,10 +279,10 @@ hide:
             The FAIR approach is based on five key principles:
 
             1.  Risk is a function of the likelihood of an event occurring and the impact of that event.
-            1.  Risk should be measured in terms of loss exposure, which is the potential financial impact of a risk event.
-            1.  Risk assessment should be based on objective and quantifiable data, rather than subjective opinions or assumptions.
-            1.  Risk management should be an ongoing process, rather than a one-time event.
-            1.  Risk management should be based on a consistent and repeatable process, using a common language and set of principles.
+            2.  Risk should be measured in terms of loss exposure, which is the potential financial impact of a risk event.
+            3.  Risk assessment should be based on objective and quantifiable data, rather than subjective opinions or assumptions.
+            4.  Risk management should be an ongoing process, rather than a one-time event.
+            5.  Risk management should be based on a consistent and repeatable process, using a common language and set of principles.
 
             The FAIR approach provides a framework for understanding and managing cyber risk in a consistent and objective way, using a common language and set of principles. This can help organizations to better understand their risks and make informed decisions about how to manage those risks.
 
@@ -384,11 +423,20 @@ hide:
 
     Identifying the path forward is a crucial step in any data analytics project or initiative. It involves developing a clear and actionable roadmap or plan for achieving your defined goals and objectives, and involves the following steps:
 
-    1. Define your project or initiative goals and objectives: Clearly define what you want to achieve with your data analytics project or initiative, and how you will measure success.
-    1. Develop a communication plan: Establish a comprehensive communication plan to ensure that stakeholders and sponsors are kept informed of project risks, milestones, timelines, and blockers.
-    1. Create a roadmap or plan: Based on your defined goals and objectives, develop a roadmap or plan for achieving them, including identifying key tasks and milestones, and allocating resources and responsibilities.
-    1. Monitor progress: Regularly monitor progress and other metrics related to the project or program to ensure that it is on track and meeting your defined goals and objectives.
-    1. Review and adjust: Regularly review your metrics and the performance and impact of the program, and be prepared to pivot or adjust the plan as needed to ensure success.
+    `Define your project or initiative goals and objectives`
+    : Clearly define what you want to achieve with your data analytics project or initiative, and how you will measure success.
+    
+    `Develop a communication plan`
+    : Establish a comprehensive communication plan to ensure that stakeholders and sponsors are kept informed of project risks, milestones, timelines, and blockers.
+    
+    `Create a roadmap or plan`
+    : Based on your defined goals and objectives, develop a roadmap or plan for achieving them, including identifying key tasks and milestones, and allocating resources and responsibilities.
+    
+    `Monitor progress`
+    : Regularly monitor progress and other metrics related to the project or program to ensure that it is on track and meeting your defined goals and objectives.
+    
+    `Review and adjust`
+    : Regularly review your metrics and the performance and impact of the program, and be prepared to pivot or adjust the plan as needed to ensure success.
 
     By following these steps, you can ensure that you have a clear and actionable plan in place for achieving your data analytics goals and objectives.
 
