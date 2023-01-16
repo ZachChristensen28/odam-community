@@ -6,15 +6,16 @@ hide:
 
 # Conclusion
 
-In this book, we have discussed the importance of data analytics in helping organizations make informed and strategic decisions. We have explored the use of tools like Splunk's ODAM platform and emphasized the importance of data storytelling and establishing a common language around data. We have also outlined steps for setting up an analytics center of excellence and emphasized the need to take a tactical approach to deployment. Overall, the use of data analytics and tools like Splunk can be valuable for organizations looking to make the most of their data assets and drive their business forward.
+In this book, we have discussed the importance of data analytics in helping organizations make informed and strategic decisions. We have explored the use of tools like Splunk's ODAM platform and emphasized the importance of data storytelling and establishing a common language around data. We have also outlined steps for setting up an analytics center of excellence and emphasized the need to take a tactical approach to deployment. 
 
-Splunk connects people to what they are looking for.
+Ultimately, Splunk connects people to what they are looking for and ODAM connects people, processes, technology, and data.
 
-If companies want to scale, data must be an asset for all, not an asset for just a few. It is hard to scale if all data skills are concentrated in a few people.
+I will leave you with these last-minute thoughts:
 
-Making storytelling, clear, and simple by instilling best practices and reducing cognitive load all while using beautiful design.
-
-Confluence of data/analytics, change management, user experience
+- If companies want to scale, data must be an asset for all, not an asset for just a few. It is hard to scale if all data skills are concentrated in a few people.
+- Making storytelling, clear, and simple by instilling best practices and reducing cognitive load all while using beautiful design.
+- Talk to each other, be patient, listen, and help each other out. Everyone is learning at their own speed and in their own way. Practice telling stories with each other.
+- Thank you for reading. I hope the information and ideas contained in this writing and in ODAM are helpful to you. Please feel free to contact me if you have any feedback (of any kind!). 
 
 !!! quote "If you wanna do data science, learn how it is a technical, cultural, economic, and social discipline that has the ability to consolidate and rearrange societal power structures."
     <strong>Hugo Bowne-Anderson, Head of Data Science Evangelism and Marketing at Coiled</strong>
