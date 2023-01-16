@@ -11,21 +11,50 @@ hide:
 ??? note "Getting Tactical - Recommendations"
     These are my tactical recommendations for you to consider when thinking about the essentials in security analytics and security operations:
 
-    - Create a data-driven security strategy: By focusing on data-driven approaches to security, organizations can more effectively identify, prioritize, and address security threats and vulnerabilities. This may involve establishing key performance indicators (KPIs) to measure the effectiveness of security efforts, and using analytics to identify trends and patterns in security data.
-    - Develop a strong security analytics team: Building a team of skilled security analysts is critical for successful security analytics. This team should have expertise in areas such as data analysis, visualization, and machine learning, and should be equipped with the right tools and technologies to support their work.
-    - Leverage automation and machine learning: Automation and machine learning can help to streamline and improve the efficiency of security analytics and operations. For example, machine learning algorithms can be used to identify patterns and trends in security data, while automation can help to reduce the workload of security analysts by automating routine tasks.
-    - Foster collaboration and communication: Effective security analytics and operations require strong collaboration and communication between different teams and stakeholders. This may involve establishing clear lines of communication between the security analytics team and other teams within the organization, as well as establishing effective channels for sharing security data and insights.
-    - Invest in the right tools and technologies: In order to support effective security analytics and operations, organizations need to invest in the right tools and technologies. This may include security analytics platforms, visualization tools, and machine learning algorithms, as well as technologies to support data collection and management.
-    - Implement a security information and event management (SIEM) system: A SIEM system can help to collect, analyze, and report on security-related events and data from a variety of sources, including network devices, servers, applications, and security devices. This can help to provide visibility into potential threats and help you to identify and respond to incidents more quickly.
-    - Implement a security orchestration, automation, and response (SOAR) platform: A SOAR platform can help to automate and streamline your incident response process by providing tools for automating incident triage, escalating incidents to the appropriate teams, and coordinating response efforts.
-    - Implement a vulnerability management program: A vulnerability management program can help you to identify and prioritize vulnerabilities in your systems and applications, and implement measures to mitigate or eliminate those vulnerabilities. This can help to reduce your risk of successful attacks.
-    - Implement a threat intelligence program: A threat intelligence program can help you to stay informed about emerging threats and trends, and provide guidance on how to mitigate or eliminate those threats. This can help you to proactively protect your organization against potential attacks.
-    - Implement a continuous monitoring program: A continuous monitoring program can help you to regularly assess and monitor your security posture, identify potential vulnerabilities or risks, and implement corrective actions to address those issues. This can help you to maintain a strong security posture over time.
-    - Identify and prioritize the data sources that will be most valuable for your security analytics efforts. This may include network logs, security event logs, and other data sources that can provide insights into potential security threats.
-    - Develop a plan for collecting, storing, and analyzing your security data. This may include implementing a data lake or other data management solution, as well as identifying the tools and technologies that will be needed to analyze and interpret the data.
-    - Implement processes and procedures for responding to security events and incidents. This may include establishing a security operations center (SOC) or other incident response team, as well as defining protocols for responding to different types of security threats.
-    - Train and enable your security analytics and operations teams. Ensure that they have the necessary skills and knowledge to effectively analyze and respond to security threats, and provide ongoing training and support to help them stay up to date on the latest threats and technologies.
-    - Regularly review and optimize your security analytics and operations efforts. Use metrics and other performance indicators to identify areas for improvement, and make adjustments as needed to ensure that you are effectively addressing security threats and meeting your objectives.
+    `Create a data-driven security strategy`
+    : By focusing on data-driven approaches to security, organizations can more effectively identify, prioritize, and address security threats and vulnerabilities. This may involve establishing key performance indicators (KPIs) to measure the effectiveness of security efforts, and using analytics to identify trends and patterns in security data.
+    
+    `Develop a strong security analytics team`
+    : Building a team of skilled security analysts is critical for successful security analytics. This team should have expertise in areas such as data analysis, visualization, and machine learning, and should be equipped with the right tools and technologies to support their work.
+    
+    `Leverage automation and machine learning`
+    : Automation and machine learning can help to streamline and improve the efficiency of security analytics and operations. For example, machine learning algorithms can be used to identify patterns and trends in security data, while automation can help to reduce the workload of security analysts by automating routine tasks.
+    
+    `Foster collaboration and communication`
+    : Effective security analytics and operations require strong collaboration and communication between different teams and stakeholders. This may involve establishing clear lines of communication between the security analytics team and other teams within the organization, as well as establishing effective channels for sharing security data and insights.
+    
+    `Invest in the right tools and technologies`
+    : In order to support effective security analytics and operations, organizations need to invest in the right tools and technologies. This may include security analytics platforms, visualization tools, and machine learning algorithms, as well as technologies to support data collection and management.
+    
+    `Implement a security information and event management (SIEM) system`
+    : A SIEM system can help to collect, analyze, and report on security-related events and data from a variety of sources, including network devices, servers, applications, and security devices. This can help to provide visibility into potential threats and help you to identify and respond to incidents more quickly.
+    
+    `Implement a security orchestration, automation, and response (SOAR) platform`
+    : A SOAR platform can help to automate and streamline your incident response process by providing tools for automating incident triage, escalating incidents to the appropriate teams, and coordinating response efforts.
+    
+    `Implement a vulnerability management program`
+    : A vulnerability management program can help you to identify and prioritize vulnerabilities in your systems and applications, and implement measures to mitigate or eliminate those vulnerabilities. This can help to reduce your risk of successful attacks.
+    
+    `Implement a threat intelligence program`
+    : A threat intelligence program can help you to stay informed about emerging threats and trends, and provide guidance on how to mitigate or eliminate those threats. This can help you to proactively protect your organization against potential attacks.
+    
+    `Implement a continuous monitoring program`
+    : A continuous monitoring program can help you to regularly assess and monitor your security posture, identify potential vulnerabilities or risks, and implement corrective actions to address those issues. This can help you to maintain a strong security posture over time.
+    
+    `Identify and prioritize the data sources that will be most valuable for your security analytics efforts`
+    : This may include network logs, security event logs, and other data sources that can provide insights into potential security threats.
+    
+    `Develop a plan for collecting, storing, and analyzing your security data`
+    : This may include implementing a data lake or other data management solution, as well as identifying the tools and technologies that will be needed to analyze and interpret the data.
+    
+    `Implement processes and procedures for responding to security events and incidents`
+    : This may include establishing a security operations center (SOC) or other incident response team, as well as defining protocols for responding to different types of security threats.
+    
+    `Train and enable your security analytics and operations teams`
+    : Ensure that they have the necessary skills and knowledge to effectively analyze and respond to security threats, and provide ongoing training and support to help them stay up to date on the latest threats and technologies.
+    
+    `Regularly review and optimize your security analytics and operations efforts`
+    : Use metrics and other performance indicators to identify areas for improvement, and make adjustments as needed to ensure that you are effectively addressing security threats and meeting your objectives.
 
     These are some examples of practical recommendations you can consider in order to approach the essentials in security analytics and security operations. It is important to tailor your approach to the specific needs of your organization, and to be proactive in identifying and addressing potential threats.
 
@@ -131,9 +160,9 @@ hide:
     Splunk's phased approach to security maturity is a systematic framework that helps organizations to progressively improve their security posture over time. The approach is designed to help organizations to quickly detect, investigate, and respond to threats.
     
     1. Ad-hoc search and investigation capabilities (Level 1).
-    1. Proactive Monitoring and Alerting (Level 2).
-    1. Security Situational Awareness (Level 3).
-    1. Real-time Risk Insight and Automation (Level 4).
+    2. Proactive Monitoring and Alerting (Level 2).
+    3. Security Situational Awareness (Level 3).
+    4. Real-time Risk Insight and Automation (Level 4).
 
     One of the key benefits of ODAM is its ability to increase visibility into security logs and enable organizations to monitor their security posture in real-time. This can help organizations identify potential security threats more quickly and respond to them more effectively. Additionally, ODAM can provide advanced security analytics and a risk-based alerting framework, which can help organizations proactively identify and respond to security incidents.
 
@@ -272,57 +301,57 @@ hide:
     ??? tip "Tracking Key Performance Indicators for IT Systems and Applications"
         ### Tracking Key Performance Indicators for IT Systems and Applications
 
-        Performance monitoring and capacity planning are important activities for ensuring the smooth and reliable operation of an organization's technology infrastructure, systems, and applications. Some specific key performance indicators (KPIs) that an organization can track when it comes to these activities include:
+        ??? info "Performance Monitoring"
+            Performance monitoring and capacity planning are important activities for ensuring the smooth and reliable operation of an organization's technology infrastructure, systems, and applications. Some specific key performance indicators (KPIs) that an organization can track when it comes to these activities include:
 
-        `System availability`
-        : This KPI measures the percentage of time that a system is available and functioning as expected. This can be important for ensuring that systems are meeting the needs of users and customers.
-        
-        `Response time`
-        : This KPI measures the time it takes for a system or application to respond to a request. This can be important for ensuring that systems are responsive and perform well.
-        
-        `Throughput`
-        : This KPI measures the amount of data or transactions that a system or application can process in a given time period. This can be important for understanding the capacity and performance of a system.
-        
-        `Error rate`
-        : This KPI measures the percentage of requests or transactions that result in errors. This can be important for identifying potential issues or problems with a system.
-        
-        `Resource utilization`
-        : This KPI measures the percentage of available resources (such as CPU, memory, or storage) that are being used by a system or application. This can be important for understanding capacity and performance, and for identifying potential bottlenecks or issues.
-        
-        `Capacity utilization`
-        : This KPI measures the percentage of available capacity (such as bandwidth or storage) that is being used by a system or application. This can be important for understanding capacity and performance, and for identifying potential bottlenecks or issues.
+            `System availability`
+            : This KPI measures the percentage of time that a system is available and functioning as expected. This can be important for ensuring that systems are meeting the needs of users and customers.
+            
+            `Response time`
+            : This KPI measures the time it takes for a system or application to respond to a request. This can be important for ensuring that systems are responsive and perform well.
+            
+            `Throughput`
+            : This KPI measures the amount of data or transactions that a system or application can process in a given time period. This can be important for understanding the capacity and performance of a system.
+            
+            `Error rate`
+            : This KPI measures the percentage of requests or transactions that result in errors. This can be important for identifying potential issues or problems with a system.
+            
+            `Resource utilization`
+            : This KPI measures the percentage of available resources (such as CPU, memory, or storage) that are being used by a system or application. This can be important for understanding capacity and performance, and for identifying potential bottlenecks or issues.
+            
+            `Capacity utilization`
+            : This KPI measures the percentage of available capacity (such as bandwidth or storage) that is being used by a system or application. This can be important for understanding capacity and performance, and for identifying potential bottlenecks or issues.
 
-        Tracking these and other KPIs can help organizations to understand the performance and capacity of their IT systems and applications, and to identify potential issues or problems that may need to be addressed.
+            Tracking these and other KPIs can help organizations to understand the performance and capacity of their IT systems and applications, and to identify potential issues or problems that may need to be addressed.
 
-        ---
-        Compliance monitoring and root cause analysis are important activities for ensuring that an organization's technology infrastructure, systems, and applications are operating in a compliant and effective manner. Some specific key performance indicators (KPIs) that an organization can track when it comes to these activities include:
+        ??? info "Compliance Monitoring"
+            Compliance monitoring and root cause analysis are important activities for ensuring that an organization's technology infrastructure, systems, and applications are operating in a compliant and effective manner. Some specific key performance indicators (KPIs) that an organization can track when it comes to these activities include:
 
-        
-        `Compliance rate` 
-        : This KPI measures the percentage of transactions or processes that are compliant with relevant regulations and standards. This can be important for ensuring that an organization is meeting its compliance obligations.
-        
-        `Number of compliance violations` 
-        : This KPI measures the number of instances in which an organization's systems or processes are found to be non-compliant. This can be important for understanding the extent to which an organization is meeting its compliance obligations.
-        
-        `Time to compliance` 
-        : This KPI measures the time it takes for an organization to bring its systems or processes into compliance after a violation has been identified. This can be important for ensuring that issues are addressed promptly and effectively.
-        
-        `Compliance cost` 
-        : This KPI measures the financial cost of maintaining compliance with relevant regulations and standards. This can be important for understanding the resources that are required to meet compliance obligations.
-        
-        `Root cause resolution rate` 
-        : This KPI measures the percentage of problems or issues that are successfully addressed at the root cause level. This can be important for ensuring that issues are not just being patched over, but are being fully resolved.
-        
-        `Mean time to resolution (MTTR)` 
-        : This KPI measures the average time it takes to resolve a problem or issue. This can be important for understanding the efficiency and effectiveness of an organization's problem-solving processes.
-        
-        `Mean time between failures (MTBF)` 
-        : This KPI measures the average time between failures or issues with a system or application. This can be important for understanding the reliability and stability of a system.
-        
-        `Mean time to detect (MTTD)` 
-        : This KPI measures the average time it takes to detect a problem or issue. This can be important for identifying and addressing problems as soon as possible.
+            `Compliance rate` 
+            : This KPI measures the percentage of transactions or processes that are compliant with relevant regulations and standards. This can be important for ensuring that an organization is meeting its compliance obligations.
+            
+            `Number of compliance violations` 
+            : This KPI measures the number of instances in which an organization's systems or processes are found to be non-compliant. This can be important for understanding the extent to which an organization is meeting its compliance obligations.
+            
+            `Time to compliance` 
+            : This KPI measures the time it takes for an organization to bring its systems or processes into compliance after a violation has been identified. This can be important for ensuring that issues are addressed promptly and effectively.
+            
+            `Compliance cost` 
+            : This KPI measures the financial cost of maintaining compliance with relevant regulations and standards. This can be important for understanding the resources that are required to meet compliance obligations.
+            
+            `Root cause resolution rate` 
+            : This KPI measures the percentage of problems or issues that are successfully addressed at the root cause level. This can be important for ensuring that issues are not just being patched over, but are being fully resolved.
+            
+            `Mean time to resolution (MTTR)` 
+            : This KPI measures the average time it takes to resolve a problem or issue. This can be important for understanding the efficiency and effectiveness of an organization's problem-solving processes.
+            
+            `Mean time between failures (MTBF)` 
+            : This KPI measures the average time between failures or issues with a system or application. This can be important for understanding the reliability and stability of a system.
+            
+            `Mean time to detect (MTTD)` 
+            : This KPI measures the average time it takes to detect a problem or issue. This can be important for identifying and addressing problems as soon as possible.
 
-        Tracking these and other KPIs can help organizations to understand the compliance and reliability of their IT systems and applications, and to identify and address potential issues or problems that may need to be addressed.
+            Tracking these and other KPIs can help organizations to understand the compliance and reliability of their IT systems and applications, and to identify and address potential issues or problems that may need to be addressed.
 
     ??? tip "Incident Response"
         ### Incident Response
