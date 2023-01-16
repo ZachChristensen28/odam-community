@@ -72,7 +72,7 @@ theme:
     admonition:
       note: material/format-list-bulleted
   logo: assets/odam-logo-square.png
-  favicon: assets/odam-logo-square.png
+  favicon: assets/odam-logo-favicon.ico
   features:
     - announce.dismiss
     - content.code.copy
