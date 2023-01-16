@@ -3,6 +3,7 @@ hide:
     - navigation
     - toc
 ---
+
 # Using ODAM to Setup Your ACE
 
 ## Part III
@@ -27,7 +28,7 @@ hide:
     Here are the four main reasons:
 
     <figure markdown>
-        ![ACE Sponsorship](/assets/ace/ace-sponsorship.png){ width="500" }
+        ![Executive Sponsorship](/assets/ace/executive-sponsorship.png){ width="800" }
     </figure>
 
     Executive sponsorship is critical for the success of an Analytics ACE because it helps to ensure that the ACE has the buy-in and support, alignment with business objectives, governance and oversight, and visibility and influence needed to deliver value to the organization.
@@ -43,7 +44,7 @@ hide:
     When it comes to using ODAM to set up your analytics center of excellence (ACE), there are key activities that are critical to the organization’s overall success. These include program management, platform management, getting data in, creating analytics, receiving feedback, education and training, the identification of IT services, and IT service visualization.
 
     <figure markdown>
-        ![High-Level Activities of an ACE](/assets/ace/ace-activities.png){ width="500" }
+        ![High-Level Activities of an ACE](/assets/ace/ace-activities.png){ width="800" }
     </figure>
 
     - Program management involves overseeing and coordinating the various activities and initiatives that are part of the ACE. This includes setting goals and objectives, establishing policies and procedures, and ensuring that the ACE is aligned with the overall goals and objectives of the organization.
@@ -57,16 +58,18 @@ hide:
     ??? tip "Understanding the IT Service Blueprint"
         ### Understanding the IT Service Blueprint
 
+        An IT Service Blueprint is a visual representation of the various components and processes that make up an IT service. It typically includes information about the service's stakeholders, customer needs, the service's value proposition, and the various components (such as processes, technology, and people) that are required to deliver the service. The purpose of an IT Service Blueprint is to provide a clear and comprehensive overview of an IT service, which can help organizations understand how the service is delivered and identify areas for improvement. ODAM provides a framework for defining, planning, executing, and measuring data analytics initiatives, which can be used to create an IT Service Blueprint for an IT service that leverages data analytics to deliver value to stakeholders, end users, and customers.
+
         The IT Service Blueprint is a crucial tool for IT professionals looking to understand and manage the various components and processes involved in delivering an IT service. By providing a clear and comprehensive overview of the service, the IT Service Blueprint helps to break down silos and reveal opportunities for improvement and optimization.
 
         <figure markdown>
-            ![IT Service Blueprint - Example 1](/assets/ace/it-service-blueprint-1.png){ width="700" }
+            ![IT Service Blueprint - Example 1](/assets/ace/itsb-1.png){ width="800" }
         </figure>
 
         One of the key benefits of the IT Service Blueprint is its ability to provide a common "big picture" view of the service, which can be helpful in understanding the service in a holistic manner. This view takes into account the situational and contextual factors that may impact the service, and helps to provide a point of view that is focused on the approach to delivering the service.
 
         <figure markdown>
-            ![IT Service Blueprint - Example 2](/assets/ace/it-service-blueprint-2.png){ width="700" }
+            ![IT Service Blueprint - Example 2](/assets/ace/itsb-2.png){ width="800" }
         </figure>
 
         In addition to considering the current state of the service, the IT Service Blueprint also looks at the future state, and can help to identify any potential gaps or areas for improvement. With the ability to monitor real-time actions and gather evidence across channels, the IT Service Blueprint can be a valuable tool for ensuring that the service meets the needs and expectations of customers and users.
@@ -102,7 +105,7 @@ hide:
         - Evidence (data) across channels: An IT Service Blueprint provides evidence (data) across channels, and helps IT professionals understand how the service is being used and perceived by different stakeholders.
 
         <figure markdown>
-            ![IT Service Blueprint - Splunk](/assets/ace/it-service-blueprint-splunk.png){ width="700" }
+            ![IT Service Blueprint - Splunk](/assets/ace/it-service-blueprint-splunk.png){ width="800" }
         </figure>
 
         Lastly, infusing your supportive presence into the data is crucial for achieving success with your data analytics efforts. By leveraging the principles of ODAM, you can build a strong Analytics Center of Excellence that is well-equipped to support your business goals and objectives. By infusing observability into each IT Service Blueprint, you can help to ensure that your data analytics initiatives are aligned with your organization's values and are driving meaningful impact.
@@ -116,21 +119,15 @@ hide:
     !!! quote "Our dilemma is that we hate change and love it at the same time; what we really want is for things to remain the same but get better."
         <strong>Sydney J. Harris, Journalist and Author</strong>
 
-    It's natural to have mixed feelings about change, as it can bring both opportunities and challenges. However, the desire to improve and make things better is a common and important goal for many organizations. 
+    It's natural to have mixed feelings about change, as it can bring both opportunities and challenges. However, the desire to improve and make things better is a common and important goal for many organizations.  
 
     <figure markdown>
-        ![Working Towards Making Things Better](/assets/ace/making-things-better.png){ width="500" }
+        ![Working Towards Making Things Better](/assets/ace/making-things-better.png){ width="800" }
     </figure>
 
     There are many things organizations and individuals can do to make things better. The question is: what motivates organizations and you to make change, challenge the status quo, and take action? For me and many others, there is plenty of motivation when I think of what the impact of the solution will be.
 
     The impact of a data analytics program is likely to depend on a number of factors, including the quality and relevance of the data, the design and layout of the dashboard or report, and the intended audience and purpose.
-
-    Here are some potential impacts that an analytics program may have in your environment.
-
-    <figure markdown>
-        ![ACE Impacts](/assets/ace/ace-impacts.png){ width="500" }
-    </figure>
 
     ??? tip "Setting Your Intention and Achieving Success"
         ### Setting Your Intention and Achieving Success
@@ -158,23 +155,8 @@ hide:
         - Replacing Legacy Tools
         - Offering Splunk ‘as-a-service’ to subordinate agencies or entities (e.g. multiple agencies within a State)
 
-    ??? tip "Aspirations of an ACE"
-        ### Aspirations of an ACE
-
-        The Seven Goals (aka, [VAULTIS](https://www.defense.gov/News/Releases/Release/Article/2376629/dod-issues-new-data-strategy/)) to become a data-centric organization, as outlined by the Department of Defense, are:
-
-        1. Make Data Visible: Enabling consumers of data to easily locate and search for the data they need.
-        1. Make Data Accessible: Ensuring consumers of data can retrieve and access the data they need.
-        1. Make Data Understandable: Ensuring that the context, content and applicability of the data is clear and comprehensive
-        1. Make Data Linked: Exploiting innate relationships between data elements to allow easy connections and understanding of relationships
-        1. Make Data Trustworthy: Implementing robust data quality controls to ensure data is accurate, complete, and up-to-date
-        1. Make Data Interoperable: Implementing standards for data representation and comprehension, to ensure easy sharing and use across different systems and platforms
-        1. Make Data Secure: Protecting consumer data from unauthorized use or manipulation by implementing security controls and measures such as encryption, access controls, and monitoring systems.
-
-        Achieving these goals would help an organization to become data-centric, which would allow them to make better data-driven decisions, identify opportunities for innovation, and improve overall efficiency. With the ability to monitor real-time actions and gather evidence across channels, it is important to ensure that the service meets the needs and expectations of customers and users. By achieving these seven goals, organizations will ensure that data is discoverable, accessible, usable, linked, and trustworthy.
-
-    ??? tip "Understanding Analytics Maturity: Begin With Evaluating Your Organization’s Capabilities"
-        ### Understanding Analytics Maturity: Begin With Evaluating Your Organization’s Capabilities
+    ??? tip "Understanding Analytics Maturity: Begin With Evaluating Your Organization's Capabilities"
+        ### Understanding Analytics Maturity: Begin With Evaluating Your Organization's Capabilities
 
         Analytics maturity refers to the level of capability, expertise, and sophistication that an organization has in using data analytics to support its mission and objectives. The structure of analytics maturity is typically understood in terms of a hierarchy or progression of increasing capabilities, with each level building on the insights and capabilities of the previous level.
 
@@ -189,17 +171,48 @@ hide:
         ??? info "Assessing Your Current Data Analytics Maturity Level"
             #### Assessing Your Current Data Analytics Maturity Level
 
-            Levels 1 - 5
+            By utilizing ODAM, organizations can efficiently and effectively move through the five levels of data analytics maturity, and ultimately reach the optimized stage where they are consistently achieving measurable business outcomes through their data analytics efforts.
 
-            1. Describe the levels 
-            1. Discovery Questions
-            1. Describe the questions 
-            1. Self-Assessment
-            1. Describe the assessment 
+            The five levels of data analytics maturity within an organization.
 
-            <figure markdown>
-                ![Data & Analytics Business Maturity Index](/assets/ace/maturity-index.png){ width="500" }
-            </figure>
+            `Level 1: Initial`
+            : At this stage, the organization is just starting to explore data analytics and has little to no infrastructure or processes in place. The organization is primarily focused on identifying potential use cases and building basic understanding of data analytics concepts.
+            
+            `Level 2: Basic`
+            : At this stage, the organization has established some basic infrastructure and processes for data analytics, but is still in the early stages of implementation. The organization is primarily focused on building foundational capabilities such as data governance and data integration.
+            
+            `Level 3: Intermediate`
+            : At this stage, the organization has established a mature data analytics infrastructure and has implemented a range of data analytics use cases. The organization is focused on expanding the use of data analytics across the organization and building advanced capabilities such as machine learning and predictive analytics.
+            
+            `Level 4: Advanced`
+            : At this stage, the organization has fully integrated data analytics into its business operations and has a mature data analytics culture. The organization is focused on driving business value and continuous improvement through advanced data analytics techniques and technologies.
+            
+            `Level 5: Optimized`
+            : At this stage, the organization has fully optimized its data analytics operations and is consistently achieving measurable business outcomes. The organization is focused on driving innovation and exploring new technologies to stay ahead of the curve.
+            
+            ---
+
+            ??? question "What are some discovery questions one could ask to determine the level of data analytics maturity in an organization?"
+
+                1. What are the primary business problems or goals that you are trying to solve with data analytics?
+                2. What are the main challenges or pain points that your organization is currently facing in terms of data analytics?
+                3. How is data currently being used across different departments and business functions within your organization?
+                4. What types of data are you currently collecting, storing, and analyzing?
+                5. How is data quality and governance being managed within your organization?
+                6. What types of data analytics tools and technologies are currently being used within your organization?
+                7. How is data analytics currently being integrated into your organization's decision-making processes?
+                8. How is data analytics currently being used for strategic planning and forecasting within your organization?
+                9. What is the current level of data literacy and skills within your organization?
+                10. What are the current performance metrics and KPIs that are being used to measure the success of your data analytics initiatives?
+
+                It is important to ask these discovery questions and take a self-assessment of an organization's data analytics maturity because it provides a clear understanding of the organization's current capabilities, strengths, and areas for improvement. By understanding where an organization currently stands in terms of data analytics maturity, you can begin to identify and prioritize the areas that will have the greatest impact on their business outcomes. Furthermore, it allows for a realistic and actionable strategy to be developed for the organization to evolve their data analytics capabilities. 
+
+            ??? success "Take the Data Analytics Maturity Self-Assessment today!"
+                The ODAM data analytics maturity self-assessment tool is a powerful resource for organizations looking to evaluate their current level of data analytics maturity. The assessment includes 50 questions, with 10 questions dedicated to each of the five levels of data analytics maturity. The self-assessment is an important step in the ODAM process as it helps organizations identify their current strengths and weaknesses, and provides a clear roadmap for how to improve their data analytics capabilities. By taking the self-assessment, organizations will be able to understand where they stand in terms of data analytics maturity and how to move forward with a strategic plan. The self-assessment tool is an easy way to start the journey of operationalizing data analytics, and it is a great starting point for any organization looking to take advantage of the power of data analytics.
+
+                <figure markdown>
+                    ![Self-assessment tool](/assets/ace/assessment-tool.png){ width="800" }
+                </figure>
         
         ??? info "Self-Service Analytics"
             #### Self-Service Analytics
@@ -226,11 +239,11 @@ hide:
 
             The FAIR approach is based on five key principles:
 
-            1. Risk is a function of the likelihood of an event occurring and the impact of that event.
-            1. Risk should be measured in terms of loss exposure, which is the potential financial impact of a risk event.
-            1. Risk assessment should be based on objective and quantifiable data, rather than subjective opinions or assumptions.
-            1. Risk management should be an ongoing process, rather than a one-time event.
-            1. Risk management should be based on a consistent and repeatable process, using a common language and set of principles.
+            1.  Risk is a function of the likelihood of an event occurring and the impact of that event.
+            1.  Risk should be measured in terms of loss exposure, which is the potential financial impact of a risk event.
+            1.  Risk assessment should be based on objective and quantifiable data, rather than subjective opinions or assumptions.
+            1.  Risk management should be an ongoing process, rather than a one-time event.
+            1.  Risk management should be based on a consistent and repeatable process, using a common language and set of principles.
 
             The FAIR approach provides a framework for understanding and managing cyber risk in a consistent and objective way, using a common language and set of principles. This can help organizations to better understand their risks and make informed decisions about how to manage those risks.
 
@@ -240,10 +253,11 @@ hide:
             - What’s the impact if the attacker is successful?
             - What is the scope of the risk scenario and what is the risk statement?
 
-            The word ‘impact’ means different things to different people. For instance, negative impacts to private businesses are different from those of the impacts to county governments. If a ransomware event happens in a business, the impact could be lost revenue and lost productivity. If a ransomware event happens in a county, terrible, life-threatening circumstances can arise. County’s usually operate jails and other essential services like (e)911. If a ransomware attack prevents doors from opening or phone lines to ring, people could lose their lives. 
+            The word `impact` means different things to different people. For instance, negative impacts to private businesses are different from those of the impacts to county governments. If a ransomware event happens in a business, the impact could be lost revenue and lost productivity. If a ransomware event happens in a county, terrible, life-threatening circumstances can arise. County’s usually operate jails and other essential services like (e)911. If a ransomware attack prevents doors from opening or phone lines to ring, people could lose their lives. 
 
             <figure markdown>
-                ![Measuring and managing Information Risk](/assets/ace/measuring-risk.png){ width="500" }
+                ![Measuring and managing Information Risk](/assets/ace/measuring-risk.png){ width="800" }
+                <figcaption>(Measuring and Managing Information Risk; A FAIR Approach)</figcaption>
             </figure>
 
             Over the last decade I’ve observed many ways and attempts of describing risk, priority, and worst case scenarios. In other words, there are many ways of describing risk, priorities, and what ifs. The cybersecurity field has many approaches and offerings that try to solve this problem (i.e., lack of a common language) but are still falling short.
@@ -251,6 +265,8 @@ hide:
             How can we simplify things so that everyone with the organization can have an ample understanding of cybersecurity but more specifically, an understanding of how priorities are established. I’m a big believer in the “show your work” phrase we learned in elementary school when practicing math. Organizations should be able to quickly and easily show what pieces of technology and process are relevant to their mission and what data was used to derive findings. 
 
             To that end, I believe that organizations that take a methodical approach to identifying IT infrastructure (hardware and software) and processes relevant to the mission are more successful in keeping things secure, available, and free from issues. This first step - gathering a basic inventory - lays the foundation for building a resilient operation within your organization.
+
+            !!! success "This first step - gathering a basic inventory - lays the foundation for building a resilient operation within your organization."
 
     ??? tip "IT Governance Alignment"
         ### IT Governance Alignment
@@ -265,7 +281,7 @@ hide:
         ### Data Governance Alignment
 
         Aligning the ACE with data governance can help to ensure that the ACE is able to effectively support the mission and objectives of the organization, and that it is able to operate in a way that is consistent with the organization's data policies and practices. This may involve ensuring that the ACE adheres to the same data quality, security, privacy, and compliance standards as other data assets and resources, and that it is integrated into the organization's data infrastructure and processes.
-
+   
         Aligning the ACE with data governance can help to ensure that the ACE is able to effectively support the needs of the organization, and that it is able to operate in a way that is consistent with the organization's data policies and practices.
 
     ??? tip "Business Strategy Alignment"
@@ -298,7 +314,7 @@ hide:
         The goal of evangelism of data literacy and data analytics is to help organizations to more effectively leverage their data assets to support their mission and objectives, and to help employees and stakeholders to develop the skills and knowledge they need to use data effectively.
 
         <figure markdown>
-            ![Data Literacy and Data Analytics](/assets/ace/data-literacy.png){ width="500" }
+            ![Data Literacy and Data Analytics](/assets/ace/data-literacy.png){ width="800" }
         </figure>
 
         ??? info "The 3 Cs of Data Literacy"
@@ -315,16 +331,24 @@ hide:
 
             Jordan Morrow also defined the four levels of analytics as descriptive, diagnostic, predictive, and prescriptive. These levels describe the increasing complexity and sophistication of data analysis, from simply describing what has happened in the past, to predicting future outcomes and prescribing actions based on those predictions. 
 
-            - Descriptive analytics (Level 1): This level of data analytics involves summarizing and describing data, and may include activities such as generating reports, calculating totals and averages, and creating charts and graphs.
-            - Diagnostic analytics: This level of data analytics involves investigating data to identify patterns and trends, and may include activities such as identifying correlations and causes, and using data mining techniques to uncover hidden insights.
-            - Predictive analytics: This level of data analytics involves using data and statistical models to make predictions about future outcomes or events, and may include activities such as building predictive models, forecasting future trends, and simulating scenarios.
-            - Prescriptive analytics (Level 4): This level of data analytics involves using data and analytical insights to recommend specific actions or decisions, and may include activities such as optimization, simulation, and decision-making support.
+            `Descriptive analytics (Level 1)`
+            : This level of data analytics involves summarizing and describing data, and may include activities such as generating reports, calculating totals and averages, and creating charts and graphs.
+            
+            `Diagnostic analytics (Level 2)`
+            : This level of data analytics involves investigating data to identify patterns and trends, and may include activities such as identifying correlations and causes, and using data mining techniques to uncover hidden insights.
+            
+            `Predictive analytics (Level 3)`
+            : This level of data analytics involves using data and statistical models to make predictions about future outcomes or events, and may include activities such as building predictive models, forecasting future trends, and simulating scenarios.
+            
+            `Prescriptive analytics (Level 4)`
+            : This level of data analytics involves using data and analytical insights to recommend specific actions or decisions, and may include activities such as optimization, simulation, and decision-making support.
             
             These four levels of data analytics represent a hierarchy of increasing complexity and sophistication, with each level building on the insights and capabilities of the previous level.
- 
+
             Exploratory data analytics typically refers to the process of examining data in order to discover patterns, trends, and insights that might not be immediately apparent. This process may involve using various techniques and tools to visualize and analyze data, and to identify relationships and correlations within the data.
 
-            >SIDE BAR: Exploratory data analytics is an important aspect of data analysis, as it can help organizations to better understand their data, to identify trends and patterns that might not be immediately apparent, and to generate insights and ideas that can inform decision-making and problem-solving.
+            !!! example "Note"
+                Exploratory data analytics is an important aspect of data analysis, as it can help organizations to better understand their data, to identify trends and patterns that might not be immediately apparent, and to generate insights and ideas that can inform decision-making and problem-solving.
 
             In terms of the levels of data analytics that I described earlier, exploratory data analytics could be considered to fall under the category of diagnostic analytics. This approach to data analytics often involves investigating data to identify patterns and trends, and advanced techniques. For example, identifying correlations and causes or using data mining techniques to uncover hidden insights.
         
@@ -372,15 +396,15 @@ hide:
     ## The Data-Driven Product Development Process: From MVP to Iteration
 
     An MVP (minimum viable product) is a product that has the minimum set of features and functionality needed to satisfy end users, and to provide a basis for learning and future development.
-    
+
     I like to use the MVP concept to describe what the end user should expect out of the gate. It is tempting to think that every KPI and visualization a user could want is on their dashboard out of the box but as we all know, there is some assembly required.
-    
+
     If we’ve already created an IT Service Blueprint for one of the organization’s services, we can begin to ask our personas questions about what KPIs are going to be most meaningful and important off the bat. This could be a measurement of capacity or speed. The bare bones of a dashboard are assembled to create the MVP for this persona and over the next months or quarters, it will be up to the ACE to solicit and collect feedback from the end user community. 
-    
+
     Planning for Ask Me Anything sessions or Office Hours can be a good way to make the ACE a welcoming place.
-    
+
     As end users come to these office hours and talk to one another as well as the ACE, they can begin to share their lessons learned and experiences with one another. This helps build and foster community and trust which ultimately creates culture.
-    
+
     Let’s summarize some typical steps when launching an MVP:
 
     - Define the problem that the persona is trying to solve and determine the applicable KPIs or insights to include in the MVP.
