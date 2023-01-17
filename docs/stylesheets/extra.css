@@ -13,6 +13,10 @@ summary {
     font-family: "odam-LiberationMono";
 }
 
+.md-typeset {
+    font-size: .64rem;
+}
+
 [data-md-color-scheme="odam-light"] {
     --md-primary-fg-color: #020100;
     --md-primary-bg-color: #FCC420;
