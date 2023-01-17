@@ -5,7 +5,6 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      enable_creation_date: true
   - glightbox:
       touchNavigation: true
       loop: false
