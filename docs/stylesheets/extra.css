@@ -13,8 +13,9 @@ summary {
     font-family: "odam-LiberationMono";
 }
 
-.md-typeset {
-    font-size: .64rem;
+.md-typeset .admonition,
+.md-typeset details {
+    font-size: .8rem
 }
 
 [data-md-color-scheme="odam-light"] {
