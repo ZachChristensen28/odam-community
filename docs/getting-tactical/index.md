@@ -90,15 +90,6 @@ hide:
             <figure markdown>
                 ![Overview of Data Architecture with ODAM](/assets/getting-tactical/data-architecture-overview.png){ width="800" }
             </figure>
-        
-        ??? info "Maintaining Data Quality"
-            #### Maintaining Data Quality
-
-            Maintaining data quality is the process of ensuring that data is accurate, complete, and up-to-date. This includes verifying the accuracy of data, correcting errors or inconsistencies, and removing or de-duplicating duplicate or outdated data. Data quality is an important aspect of data management, as it helps to ensure that data is reliable and can be used effectively for business purposes.
-
-            Poor data quality can lead to a variety of problems, such as incorrect or incomplete insights, wasted time and resources, and damage to an organization's reputation. To maintain data quality, it is important to establish and implement processes for regularly reviewing and cleaning data, as well as for verifying the accuracy of data as it is collected and entered into systems.
-
-            In terms of data architecture, data quality should be considered when designing and implementing data storage and processing systems. This may include implementing data validation and error correction mechanisms, as well as regularly reviewing and cleaning data to ensure that it is accurate and up-to-date. Maintaining data quality is an ongoing process that requires ongoing attention and resources, and should be an integral part of an organization's data management strategy.
 
         ??? info "Data Architecture Frameworks"
             #### Data Architecture Frameworks
@@ -135,6 +126,15 @@ hide:
             - A framework to set up regular monitoring and optimization of data performance. 
 
             These strategies, when implemented in combination, can help organizations to improve the flow and use of data, making it more scalable and responsive to changing business needs.
+        
+        ??? info "Maintaining Data Quality"
+            #### Maintaining Data Quality
+
+            Maintaining data quality is the process of ensuring that data is accurate, complete, and up-to-date. This includes verifying the accuracy of data, correcting errors or inconsistencies, and removing or de-duplicating duplicate or outdated data. Data quality is an important aspect of data management, as it helps to ensure that data is reliable and can be used effectively for business purposes.
+
+            Poor data quality can lead to a variety of problems, such as incorrect or incomplete insights, wasted time and resources, and damage to an organization's reputation. To maintain data quality, it is important to establish and implement processes for regularly reviewing and cleaning data, as well as for verifying the accuracy of data as it is collected and entered into systems.
+
+            In terms of data architecture, data quality should be considered when designing and implementing data storage and processing systems. This may include implementing data validation and error correction mechanisms, as well as regularly reviewing and cleaning data to ensure that it is accurate and up-to-date. Maintaining data quality is an ongoing process that requires ongoing attention and resources, and should be an integral part of an organization's data management strategy.
 
     ??? tip "IT Assets, Networks, Applications, and Users"
         ### IT Assets, Networks, Applications, and Users
