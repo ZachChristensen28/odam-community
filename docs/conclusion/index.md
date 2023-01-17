@@ -20,7 +20,7 @@ I will leave you with these last-minute thoughts:
 !!! quote "If you wanna do data science, learn how it is a technical, cultural, economic, and social discipline that has the ability to consolidate and rearrange societal power structures."
     <strong>Hugo Bowne-Anderson, Head of Data Science Evangelism and Marketing at Coiled</strong>
 
-!!! quote "A God Loosened"
+!!! quote "A God Loosened, by Jimmy Santiago Baca"
     I walk along the acequia.
     
     Morning quivers softly.
