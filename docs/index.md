@@ -8,7 +8,7 @@ hide:
   ![ODAM](/assets/odam-feature-lg.svg){ width="900" }
 </figure>
 
-<h1 style="text-align:center">Empowering Digital Resilience through<br>Splunk's Operationalizing Data Analytics Methodology</h1>
+<h1 style="text-align:center">Empowering Digital Resilience Through<br>Splunk's Operationalizing Data Analytics Methodology</h1>
 
 ODAM, or Operationalizing Data Analytics Methodology, is a comprehensive approach that helps organizations build a data-driven culture and achieve measurable business outcomes. It provides a framework for defining, planning, executing, and measuring data analytics initiatives, ensuring that they align with strategic goals and maximize the value of data assets. With ODAM, organizations can mature and operationalize their data analytics capabilities, driving business value and supporting decision-making across departments and use cases. By following best practices and leveraging industry-leading tools and technologies, organizations can accelerate progress and lead the way in data-driven innovation.
 
