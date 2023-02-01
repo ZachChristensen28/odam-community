@@ -7,6 +7,8 @@ on:
     paths:
       - "docs/**"
       - "mkdocs.yml"
+      - "overrieds/**"
+      - "includes/**"
 
 jobs:
   call-docs-workflow:
