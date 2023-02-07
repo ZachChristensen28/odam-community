@@ -52,13 +52,13 @@ Many security operations centers (SOCs) today function like archaeological diggi
 As a CISO, the ultimate goal is to know the risk of the next major incident occurring (RI), to be able to stop it or adequately prepare to respond and recover.  Consider this simple relationship between Risk of an incident (RI), existing vulnerabilities (VI), the value of the asset that will be affected during the incident (AI):
 
 <figure markdown>
-![The Risk Equation](/assets/forward/risk_equation.png)
+![The Risk Equation](/assets/forward/risk_equation.png){ width="700" }
 </figure>
 
 From a mathematical perspective, the risk of an incident can be predicted if the threat to an asset is known, vulnerability information is readily accessible, and the value of the asset to the organization is understood. This is the ultimate goal of the ODAM process, to use past and present events, along with sound cyber data analytics, to forecast future incidents. Threat data can be sourced from various internal and external threat intelligence sources, and by normalizing the right data sources and incorporating them into the ACE, we can align with the scenario-based approach proposed by the ODAM framework. Vulnerability data is available from internal and external vulnerability scanners, technology vendors, and UBA (user behavioral analytics) platforms. On the other hand, the information about assets is more complex, given the large number of assets on major organizations' networks, and their multi-dimensional interrelationships and interdependencies.
 
 <figure markdown>
-![Assets at the Center of Risk Forecasting](/assets/forward/assets_risk_forecasting.png)
+![Assets at the Center of Risk Forecasting](/assets/forward/assets_risk_forecasting.png){ width="700" }
 </figure>
 
 The asset is of paramount importance, but its complexity surpasses our understanding of threats and vulnerabilities. Threats are an inevitable reality, always lurking and waiting to strike. Nevertheless, their impact can be mitigated by acquiring solid threat intelligence as soon as possible and converting it into actions for the SOC (security operations center). Vulnerabilities, on the other hand, are somewhat within our grasp, as they can be eliminated or addressed by implementing a proper patching, scanning, and management program. Yes, zero-day vulnerabilities exist, but a robust vulnerability management program still positions an organization to handle them better when they arise. If an organization has a mature program in place to address vulnerabilities, adding another one is just a matter of course. However, if a zero-day occurs amid hundreds of unaddressed vulnerabilities, that critical patch becomes harder to install, as several other versions may need to be applied first.
