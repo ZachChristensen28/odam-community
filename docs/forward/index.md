@@ -40,7 +40,7 @@ The ODAM framework provides an alternative method for creating your ACE, guided 
 
 <figure markdown>
 ![Archaeology vs Meteorology](/assets/forward/archaeology_vs_meteorology.png)
-<figcaption>Meteorology vs Archaeology in the SOC.</figcaption>
+<figcaption>Archaeology vs Meteorology in the SOC.</figcaption>
 </figure>
 
 Many security operations centers (SOCs) today function like archaeological digging sites, constantly searching through millions of logs for clues to past incidents to understand the vulnerability that was exploited, how the attacker entered the environment, how to contain the incident, and how to remove the attacker and their payload to get back to normal operations. These are important questions that can be answered through SIEM tools and other security tools in the SOC. However, I aim for a meteorological approach to cybersecurity data analytics, one that allows me to predict future cyber incidents and take preventative measures or to be ready to respond and recover in the event of a successful attack. The ODAM framework rekindles my hope for predictive analytics and forecasting of cybersecurity incidents. While the framework doesn't guarantee this outcome, it provides a roadmap to set up an ACE that, if implemented correctly, could pave the way for this type of analytics.
