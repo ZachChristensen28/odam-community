@@ -51,9 +51,9 @@ Many security operations centers (SOCs) today function like archaeological diggi
 
 As a CISO, the ultimate goal is to know the risk of the next major incident occurring (RI), to be able to stop it or adequately prepare to respond and recover.  Consider this simple relationship between Risk of an incident (RI), existing vulnerabilities (VI), the value of the asset that will be affected during the incident (AI):
 
-``` text title="The risk equation"
-RI => VIAITI or R = cVAT
-```
+<figure markdown>
+![The Risk Equation](/assets/forward/risk_equation.png)
+</figure>
 
 From a mathematical perspective, the risk of an incident can be predicted if the threat to an asset is known, vulnerability information is readily accessible, and the value of the asset to the organization is understood. This is the ultimate goal of the ODAM process, to use past and present events, along with sound cyber data analytics, to forecast future incidents. Threat data can be sourced from various internal and external threat intelligence sources, and by normalizing the right data sources and incorporating them into the ACE, we can align with the scenario-based approach proposed by the ODAM framework. Vulnerability data is available from internal and external vulnerability scanners, technology vendors, and UBA (user behavioral analytics) platforms. On the other hand, the information about assets is more complex, given the large number of assets on major organizations' networks, and their multi-dimensional interrelationships and interdependencies.
 
