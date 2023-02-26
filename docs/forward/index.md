@@ -4,7 +4,7 @@ hide:
     - toc
 ---
 
-# Forward - By Leo Howell
+# Foreward - By Leo Howell
 
 As a Chief Information Security Officer for a major research university, it can be frustrating to know that the clues to imminent security breaches are within reach, but not easily accessible. Analysts work tirelessly to construct a timeline of what, how, and when a breach occurred, but by the time they have the information, the damage has already been done. Sensitive data is stolen, important information disclosed, and critical operations have been shut down by threat actors. What's even more disheartening is that the majority of breaches result from simple phishing attacks where users' credentials are compromised. Other breaches involve privilege escalation, where once an attacker has gained access to an environment, they increase their level of access to install malware or exfiltrate data.
 
