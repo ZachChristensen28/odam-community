@@ -93,7 +93,7 @@ copyright: Copyright &copy; 2023 Chris Perkins
 
 nav:
   - Home: index.md
-  - 0-Forward: forward/index.md
+  - 0-Foreward: foreward/index.md
   - 1-Data is Beautiful: data-is-beautiful/index.md
   - 2-Data Strategy Template: strategy-template/index.md
   - 3-Using ODAM to Setup Your ACE: ace/index.md
