@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "odam-LiberationMono";
+    src: url(fonts/LiberationMono-Regular.ttf)
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+summary {
+    font-family: "odam-LiberationMono";
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+    font-size: .8rem
+}
+
+[data-md-color-scheme="odam-light"] {
+    --md-primary-fg-color: #020100;
+    --md-primary-bg-color: #FCC420;
+
+    /* buttons, primary */
+    --md-accent-fg-color: #FCC420;
+    
+    /* a tag */
+    /* --md-typeset-a-color: #FCC420; */
+}
+
+.quote-indent {
+    text-indent: 50px;
+}
+
+.md-tabs__link {
+    font-weight: bold;
+}
+
+.heart {
+    color: #E20082;
+}
+
+.lg-letter {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.color-bold {
+    color: #E20082;
+    font-weight: bold;
+}
+
+.larger-text {
+    font-size: larger;
+}
+
+.resources {
+    width: auto;
+    margin: auto .6rem;
+    padding: .4rem 0;
+    color: #ffffffb3;
+    font-size: .64rem;
+}
