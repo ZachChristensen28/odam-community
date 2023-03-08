@@ -85,7 +85,7 @@ theme:
     admonition:
       note: material/format-list-bulleted
   logo: assets/odam-logo-small-icon.png
-  favicon: assets/odam-logo-small-icon.png
+  favicon: assets/favicon-32x32.png
   features:
     - announce.dismiss
     - content.code.copy
